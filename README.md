@@ -13,3 +13,4 @@ Final Project of the course Data Structure and Programming, 2018 Fall, NTUEE
 8. CIRSIMulate: perform Boolean logic simulation on the circuit
 9. CIRFraig: perform FRAIG operation on the circuit
 
+
