@@ -1,0 +1,11 @@
+cirr tests.fraig/sim09.aag
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirsw
+cirp -s
+cirw -o mysim09.aag
+usage
+q -f

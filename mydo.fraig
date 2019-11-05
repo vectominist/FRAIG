@@ -1,0 +1,16 @@
+cirr tests.fraig/sim15.aag
+cirsim -f tests.fraig/pattern.15
+cirsim -r
+cirsim -r
+cirsim -r
+cirp -fec
+cirfraig
+cirp -n
+cirsw
+ciropt
+cirstrash
+cirsw
+cirp -s
+cirw -o mysim/mysim15.aag
+usage
+q -f

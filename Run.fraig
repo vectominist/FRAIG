@@ -1,0 +1,13 @@
+#!/bin/bash
+
+hw=fraig
+dofile=mydo.fraig
+dofile2=mydo.miter
+MyProg=./fraig
+RefProg=./fraig-linux18
+
+echo Begin running $dofile ...
+$MyProg < $dofile
+echo Finished running...
+$RefProg < $dofile2
+echo Finished running $dofile

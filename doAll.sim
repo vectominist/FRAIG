@@ -1,0 +1,137 @@
+cirr tests.fraig/sim01.aag
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim02.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim03.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim04.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim05.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim06.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim07.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim08.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim09.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim10.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim11.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim12.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim13.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim14.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+cirr tests.fraig/sim15.aag -r
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirp -s
+cirp -n
+cirw
+usage
+q -f

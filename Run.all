@@ -1,0 +1,12 @@
+#!/bin/bash
+
+hw=fraig
+dofile=doAll.strash
+MyProg=./fraig
+RefProg=./fraig-linux18
+
+echo Running $dofile on $MyProg ...
+$MyProg < $dofile &> my.log
+echo Running $dofile on $RefProg ...
+$RefProg < $dofile &> or.log
+

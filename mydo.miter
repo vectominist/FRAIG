@@ -1,0 +1,26 @@
+cirmiter mysim/mysim15.aag tests.fraig/sim15.aag
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirstrash
+cirsw
+ciropt
+cirstrash
+cirsim -r
+cirfraig
+cirsw
+ciropt
+cirstrash
+cirsim -r
+cirfraig
+cirsw
+ciropt
+cirstrash
+cirsw
+cirp -s
+q -f
